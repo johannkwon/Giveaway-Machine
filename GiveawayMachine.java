@@ -66,6 +66,7 @@ public class GiveawayMachine {
             }
         }
 		
+		scan.close();
 		return names;
 	}
 	

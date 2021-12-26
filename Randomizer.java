@@ -147,6 +147,7 @@ public class Randomizer {
                 }
             }
         }
+        scan.close();
     }
 
     /**
